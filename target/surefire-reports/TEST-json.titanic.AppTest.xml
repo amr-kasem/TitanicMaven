@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="json.titanic.AppTest" time="0.14" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/test-classes:/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/classes:/home/auk/.m2/repository/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0.jar:/home/auk/.m2/repository/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar:/home/auk/.m2/repository/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30.jar:/home/auk/.m2/repository/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar:/home/auk/.m2/repository/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22.jar:/home/auk/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/auk/.m2/repository/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar:/home/auk/.m2/repository/org/wso2/orbit/com/fasterxml/jackson/core/jackson-databind/2.11.0.wso2v1/jackson-databind-2.11.0.wso2v1.jar:/home/auk/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar:/home/auk/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar:/home/auk/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/auk/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="Unknown"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-16-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/surefire/surefirebooter4694400373043472548.jar /home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/surefire 2021-06-05T20-37-30_908-jvmRun1 surefire12022919181194056530tmp surefire_016568199682226663408tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/test-classes:/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/classes:/home/auk/.m2/repository/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0.jar:/home/auk/.m2/repository/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar:/home/auk/.m2/repository/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30.jar:/home/auk/.m2/repository/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar:/home/auk/.m2/repository/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22.jar:/home/auk/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/auk/.m2/repository/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar:/home/auk/.m2/repository/org/wso2/orbit/com/fasterxml/jackson/core/jackson-databind/2.11.0.wso2v1/jackson-databind-2.11.0.wso2v1.jar:/home/auk/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar:/home/auk/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar:/home/auk/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/auk/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/auk"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="/usr/lib/jvm/java-16-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo/target/surefire/surefirebooter4694400373043472548.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-Ubuntu-120.04"/>
+    <property name="user.name" value="auk"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.8.0-53-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/auk/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="Unknown"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="/home/auk/disk/CoursesMaterial/Docs/AI/ITI/07_Java/Day06/demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/home/auk/Robotics/catkin_ws/devel/lib:/opt/ros/noetic/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="16.0.1+9-Ubuntu-120.04"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="json.titanic.AppTest" time="0.004"/>
+</testsuite>
